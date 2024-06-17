@@ -37,6 +37,6 @@ So, a low p-value indicates that there is a statistically significant difference
 
 The conducted A/B test demonstrated a significant positive effect on user engagement and revenue due to 360-degree product videos on the product page.
 
-With 95% confidence level, the treatment group (which included the 360-degree product videos), exhibited a substantial increase in user interaction and average revenue per user compared to the control group.
+With 95% confidence level, the treatment group (which included the 360-degree product videos), exhibited a substantial increase of **1072.34% in user interaction** and **2.82% rise in overall revenue** compared to the control group.
 
 This feature not only improved user interaction but also contributed to a notable increase in overall sales performance.
