@@ -8,6 +8,9 @@ A/B Testing, also known as **split testing or bucket testing**, used for compari
 ##  Problem Statement:
 Evaluate the impact of adding 360-degree product videos feature on the product page on sales for an E-Commerce Platform. 
 
+![Screenshot 2024-06-17 141822](https://github.com/nikitaprasad21/360-Video-Feature-A-B-Test-Analysis-Project/assets/84131752/df3047a5-467c-4133-870a-af146f7d8648)
+
+
 The goal is to determine whether including 360-degree product videos increases the conversion rate and overall revenue compared to a product page without these videos and only images of the products.
 
 ## Work Process
