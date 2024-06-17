@@ -23,12 +23,13 @@ Here, in this case, the two variables are:
 
 By constructing a contingency table that cross-tabulates the counts of conversions and non-conversions for both control and treatment groups, the chi-square test assesses whether the observed differences in conversion rates between the groups are statistically significant or if they could have occurred by chance.
 
-Hypothesis Formulation:
+##### Hypothesis Formulation:
 
-* Null Hypothesis (𝐻0): There is no difference in conversion rates or revenue between the control and treatment groups.
-* Alternative Hypothesis (𝐻1): The treatment group (with 360-degree videos) has a higher conversion rate or revenue than the control group.
+* **Null Hypothesis (𝐻0)**: There is no difference in conversion rates or revenue between the control and treatment groups.
+* **Alternative Hypothesis (𝐻1)**: The treatment group (with 360-degree videos) has a higher conversion rate or revenue than the control group.
 
-P-Value: To assess the significance of the result, I'll consider the typical p-value (< 0.05) indicates that the differences are unlikely to have occurred by chance, suggesting a significant association between the group and conversion rate.
+##### P-Value: 
+To assess the significance of the result, I'll consider the typical p-value (< 0.05) indicates that the differences are unlikely to have occurred by chance, suggesting a significant association between the group and conversion rate.
 
 ## Final Conclusion
 
