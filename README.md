@@ -31,12 +31,12 @@ By constructing a contingency table that cross-tabulates the counts of conversio
 ##### P-Value: 
 To assess the significance of the result, I'll consider the typical p-value (< 0.05) indicates that the differences are unlikely to have occurred by chance, suggesting a significant association between the group and conversion rate.
 
-## Final Conclusion
+## Results and Final Conclusion
 
 So, a low p-value indicates that there is a statistically significant difference in Conversion Rates between groups, as the observed differences between the two versions are unlikely to be due to chance.
 
 The conducted A/B test demonstrated a significant positive effect on user engagement and revenue due to 360-degree product videos on the product page.
 
-With 95% confidence level, the treatment group (which included the 360-degree product videos), exhibited a substantial increase of **1072.34% in user interaction** and **2.82% rise in overall revenue** compared to the control group.
+With 95% confidence level, the treatment group (which included the 360-degree product videos), exhibited a substantial increase of **64.77% in user interaction** and **2.87% rise in overall revenue** compared to the control group.
 
-This feature not only improved user interaction but also contributed to a notable increase in overall sales performance.
+I believe, this feature not only improve the user interaction, after fully launching but also contributed to a notable increase in overall sales performance.
